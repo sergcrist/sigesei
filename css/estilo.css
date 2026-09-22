@@ -378,7 +378,7 @@ header h1 {
     padding: 2rem;
     text-align: center;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
-    max-width: 900px;      /* ALTERADO: era 600px, agora 900px */
+    max-width: 900px;     
     margin: 0 auto;
 }
 
@@ -389,22 +389,22 @@ header h1 {
 
 .confirmation-details {
     text-align: left;
-    margin: 1.5rem 0;      /* ALTERADO: era 2rem, agora 1.5rem */
+    margin: 1.5rem 0;      
 }
 
 .item-to-delete {
     background: #f8f9fa;
     padding: 1.5rem;
     border-radius: 8px;
-    margin: 1rem 0;        /* ALTERADO: era 1.5rem, agora 1rem */
+    margin: 1rem 0;        
 }
 
 .warning-message {
     background: #fff3cd;
     border-left: 4px solid #ffc107;
     padding: 1rem;
-    margin: 1rem 0;        /* ALTERADO: era 1.5rem, agora 1rem */
-    width: 100%;           /* ADICIONADO: ocupa toda a largura do card */
+    margin: 1rem 0;       
+    width: 100%;           
     box-sizing: border-box;
 }
 
@@ -425,7 +425,7 @@ header h1 {
     display: flex;
     justify-content: center;
     gap: 15px;
-    margin-top: 1.5rem;    /* ALTERADO: era 2rem, agora 1.5rem */
+    margin-top: 1.5rem;    
 }
 
 /* Busca e filtros */
@@ -949,7 +949,6 @@ input[readonly] {
     cursor: not-allowed;
 }
 
-/* ===== ESTILOS PARA O DASHBOARD MELHORADO ===== */
 
 /* Seções do dashboard */
 .dashboard-section {
