@@ -378,7 +378,11 @@ header h1 {
     padding: 2rem;
     text-align: center;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+<<<<<<< Updated upstream
     max-width: 900px;     
+=======
+    max-width: 900px;    
+>>>>>>> Stashed changes
     margin: 0 auto;
 }
 
@@ -389,14 +393,22 @@ header h1 {
 
 .confirmation-details {
     text-align: left;
+<<<<<<< Updated upstream
     margin: 1.5rem 0;      
+=======
+    margin: 1.5rem 0;     
+>>>>>>> Stashed changes
 }
 
 .item-to-delete {
     background: #f8f9fa;
     padding: 1.5rem;
     border-radius: 8px;
+<<<<<<< Updated upstream
     margin: 1rem 0;        
+=======
+    margin: 1rem 0;       
+>>>>>>> Stashed changes
 }
 
 .warning-message {
